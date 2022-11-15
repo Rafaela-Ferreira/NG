@@ -1,0 +1,24 @@
+body{
+    font-family: Laila;
+    font-size:larger;
+    font-size: 18px;
+}
+.accountButton button{
+    background-color: #690b42;
+    color: white;
+    border: #212529;
+    padding: 10px 60px;
+    border-radius: 20px;
+    font-size:large;
+    
+}
+.accountButton button:hover{
+    background-color: #494c4e;
+    border-radius: 20px;  
+}
+.network a img{
+    width: 50px;    
+}
+#butcad{
+    width: 100%;
+}
